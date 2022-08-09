@@ -2,10 +2,10 @@ Hey, I'm just a disillusioned software developer looking to find solace in Open 
 
 <p>
 I'm mostly interested in creating free, open source applications.
-My current language obsession is [Rust](https://www.rust-lang.org/) which you should definitely check out if you haven't already.
+My current language obsession is Rust (https://www.rust-lang.org/) which you should definitely check out if you haven't already.
 </p>
 
 <p>
-I'm currently learning desktop application development in [Rust](https://www.rust-lang.org/) via [Dioxus](https://dioxuslabs.com/)
-as well as game development with [Godot](https://godotengine.org/).
+I'm currently learning desktop application development in Rust (https://www.rust-lang.org/) via Dioxus (https://dioxuslabs.com/)
+as well as game development with Godot (https://godotengine.org/).
 </p>
