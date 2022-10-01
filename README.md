@@ -6,6 +6,5 @@ My current language obsession is Rust (https://www.rust-lang.org/) which you sho
 </p>
 
 <p>
-I'm currently learning desktop application development in Rust via Dioxus (https://dioxuslabs.com/)
-as well as game development with Godot (https://godotengine.org/) in C# and GDScript.
+I'm diving pretty hard into Godot (https://godotengine.org/) at the moment.
 </p>
