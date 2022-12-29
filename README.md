@@ -9,4 +9,5 @@ My current language obsession is Rust (https://www.rust-lang.org/) which you sho
 I'm also diving pretty hard into Godot (https://godotengine.org/) at the moment.
 </p>
 
+# Support
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1HEKZ9)
