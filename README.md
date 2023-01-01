@@ -6,7 +6,7 @@ My current language obsession is Rust (https://www.rust-lang.org/) which you sho
 </p>
 
 <p>
-I'm also diving pretty hard into Godot (https://godotengine.org/) at the moment.
+I'm also diving pretty hard into exploring Godot (https://godotengine.org/) at the moment.
 </p>
 
 # Support My Projects
