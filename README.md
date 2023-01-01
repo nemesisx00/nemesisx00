@@ -1,4 +1,4 @@
-Hey, I'm just a disillusioned software developer looking to find solace in Open Source.
+Hey, I'm just a software developer looking to make a difference in the world via Open Source.
 
 <p>
 I'm mostly interested in creating free, open source applications.
