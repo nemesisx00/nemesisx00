@@ -9,7 +9,7 @@ Currently, I'm mostly interested in using my free time to create free, open sour
 My initial motivator for getting into software development was a desire to create games.
 Thanks to [Godot](https://godotengine.org/) I am able to explore game development with a high quality, completely open source game engine.
 I also find it to be considerably more intuitive than other options.
-Version 4.0 is on the immediate horizon so now is a great time to jump in and start learning!
+The long awaited version 4.0 just released so now is a great time to jump in and start learning!
 
 ### Support My Projects
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1HEKZ9)
