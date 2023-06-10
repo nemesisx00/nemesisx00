@@ -14,6 +14,6 @@ intuitive than other options.
 
 ### Support My Projects
 
-[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/plunn.dev/donate)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1HEKZ9)
+
+[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/plunn.dev/donate)
