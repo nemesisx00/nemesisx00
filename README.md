@@ -1,1 +1,1 @@
-See more [https://nemesisx00.github.io/](here)
+See more [here](https://nemesisx00.github.io/)
